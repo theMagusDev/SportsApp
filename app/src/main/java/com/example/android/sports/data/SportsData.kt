@@ -23,6 +23,7 @@ import com.example.android.sports.model.Sport
  * Sports data
  */
 object SportsData{
+
     fun getSportsData(): ArrayList<Sport> {
         return arrayListOf(
             Sport(
