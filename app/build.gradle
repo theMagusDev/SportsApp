@@ -63,8 +63,8 @@ dependencies {
     implementation 'androidx.navigation:navigation-ui-ktx:2.5.3'
     implementation 'androidx.leanback:leanback:1.0.0'
     implementation "androidx.slidingpanelayout:slidingpanelayout:1.2.0"
+
     // Coil
     implementation "io.coil-kt:coil:1.1.1"
-
 
 }
